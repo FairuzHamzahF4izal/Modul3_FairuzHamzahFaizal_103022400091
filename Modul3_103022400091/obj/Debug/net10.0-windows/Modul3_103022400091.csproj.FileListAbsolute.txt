@@ -1,0 +1,17 @@
+D:\FairuzVS\Modul3_103022400091\Modul3_103022400091\bin\Debug\net10.0-windows\Modul3_103022400091.exe
+D:\FairuzVS\Modul3_103022400091\Modul3_103022400091\bin\Debug\net10.0-windows\Modul3_103022400091.deps.json
+D:\FairuzVS\Modul3_103022400091\Modul3_103022400091\bin\Debug\net10.0-windows\Modul3_103022400091.runtimeconfig.json
+D:\FairuzVS\Modul3_103022400091\Modul3_103022400091\bin\Debug\net10.0-windows\Modul3_103022400091.dll
+D:\FairuzVS\Modul3_103022400091\Modul3_103022400091\bin\Debug\net10.0-windows\Modul3_103022400091.pdb
+D:\FairuzVS\Modul3_103022400091\Modul3_103022400091\obj\Debug\net10.0-windows\Modul3_103022400091.Form1.resources
+D:\FairuzVS\Modul3_103022400091\Modul3_103022400091\obj\Debug\net10.0-windows\Modul3_103022400091.csproj.GenerateResource.cache
+D:\FairuzVS\Modul3_103022400091\Modul3_103022400091\obj\Debug\net10.0-windows\Modul3_103022400091.GeneratedMSBuildEditorConfig.editorconfig
+D:\FairuzVS\Modul3_103022400091\Modul3_103022400091\obj\Debug\net10.0-windows\Modul3_103022400091.AssemblyInfoInputs.cache
+D:\FairuzVS\Modul3_103022400091\Modul3_103022400091\obj\Debug\net10.0-windows\Modul3_103022400091.AssemblyInfo.cs
+D:\FairuzVS\Modul3_103022400091\Modul3_103022400091\obj\Debug\net10.0-windows\Modul3_103022400091.csproj.CoreCompileInputs.cache
+D:\FairuzVS\Modul3_103022400091\Modul3_103022400091\obj\Debug\net10.0-windows\Modul3_103022400091.sourcelink.json
+D:\FairuzVS\Modul3_103022400091\Modul3_103022400091\obj\Debug\net10.0-windows\Modul3_103022400091.dll
+D:\FairuzVS\Modul3_103022400091\Modul3_103022400091\obj\Debug\net10.0-windows\refint\Modul3_103022400091.dll
+D:\FairuzVS\Modul3_103022400091\Modul3_103022400091\obj\Debug\net10.0-windows\Modul3_103022400091.pdb
+D:\FairuzVS\Modul3_103022400091\Modul3_103022400091\obj\Debug\net10.0-windows\Modul3_103022400091.genruntimeconfig.cache
+D:\FairuzVS\Modul3_103022400091\Modul3_103022400091\obj\Debug\net10.0-windows\ref\Modul3_103022400091.dll
